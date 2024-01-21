@@ -18,7 +18,11 @@
 </body>
 </html>
 
+### 👑 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&layout=compact&theme=radical)
+
+### 😄 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noonbbara&show_icons=true&theme=radical)
 
 <!---
 noonbbara/noonbbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
