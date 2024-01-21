@@ -11,7 +11,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title></title>
 </head>
 <body>
   <h1>안녕하세요</h1>
@@ -19,10 +18,7 @@
 </html>
 
 ### 👑 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&layout=compact&theme=radical)
-
-### 😄 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noonbbara&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&layout=compact&theme=default"/>
 
 <!---
 noonbbara/noonbbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
