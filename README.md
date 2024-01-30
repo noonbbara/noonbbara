@@ -3,7 +3,7 @@
 
 
 ### 👑 Top Langs
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&layout=compact&theme=default"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&langs_count=10&layout=compact&theme=default)](https://github.com/noonbbara/noonbbara)﻿
 
 <!---
 noonbbara/noonbbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
