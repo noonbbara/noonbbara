@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=noonbbara's%20github&animation=fadeIn&fontColor=703ee5)
 
+***
+
 ### 👑 Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&langs_count=10&layout=compact&theme=default)](https://github.com/noonbbara/noonbbara)﻿
 
