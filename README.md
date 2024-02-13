@@ -5,7 +5,7 @@
 ***
 
 ### 👑 Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&langs_count=10&layout=compact&theme=default)](https://github.com/noonbbara/noonbbara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noonbbara&langs_count=4&layout=compact&theme=default)](https://github.com/noonbbara/noonbbara)
 
 <!---
 ### Stats
