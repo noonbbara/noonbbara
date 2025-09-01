@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Noonbbara's%20Github&animation=fadeIn&fontColor=703ee5)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/noonbbara"/>
+</a>
+
 
 
 <!---
